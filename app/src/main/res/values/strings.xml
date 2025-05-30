@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sample databinding</string>
+    <string name="loves_coding_and_coffee">Loves coding and coffee ☕</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="message">Message</string>
+    <string name="friends">Friends</string>
+</resources>
